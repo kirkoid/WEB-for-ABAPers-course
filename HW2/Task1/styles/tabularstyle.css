@@ -1,0 +1,26 @@
+table {
+    width: 100%;
+    border-spacing: 10px;
+    margin: 5px;
+}
+
+caption {
+    font-size: 30px;
+}
+.line1 {
+    background-color: rgba(248, 182, 0, 0.959);
+    height: 100px;
+}
+.line2 {
+    background-color: rgba(229, 253, 47, 0.849);
+   height: 350px;
+}
+.line3
+{
+    background-color: rgba(109, 47, 253, 0.897);
+   height: 250px;
+}
+.line4 {
+    background-color:grey;
+    height: 150px;  
+}
