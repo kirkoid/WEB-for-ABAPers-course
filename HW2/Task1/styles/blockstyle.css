@@ -1,5 +1,4 @@
 * {
-
     box-sizing: border-box;
 }
 
@@ -10,7 +9,6 @@
 }
 
 .elementline1 {
-
     background: orange;
     width: 100%;
     margin: 5px;
@@ -28,17 +26,19 @@
     height: 250px;
     margin: 10px;   
 }
-.elementline3 {
 
+.elementline3 {
     background-color: rgba(109, 47, 253, 0.897);
     width: 100%;
     margin: 5px;
 }
+
 .line4 {
     display: flex;
     height: 150px;  
     margin: 10px; 
 }
+
 .elementline4{
     background-color:grey;
     width: 100%; 

@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+}
+.block1 {
+    position: absolute;
+    background-color: rgb(255, 0, 0);
+    width: 30%;
+    height: 60%;
+    z-index: 1;
+    left: 5%;
+    top: 5%;
+ }
+  .block2 {
+     position: absolute;
+     background-color:rgb(14, 141, 245);
+     width: 30%;
+     height: 60%;
+     z-index: 2;
+     left: 35%;
+     top: 35%;
+  }
+  .block3 {
+    position: absolute;
+    background-color: rgb(21, 230, 31);
+    width: 30%;
+    height: 60%;
+    z-index: 3;
+    left: 20%;
+    top: 20%;
+ }
